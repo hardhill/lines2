@@ -1,5 +1,5 @@
 import { createCamera } from "../components/camera"
-import { Cube } from "../components/Cube"
+
 import { DPoint } from "../components/DPoint"
 import { Field } from "../components/Field"
 import { createLight } from "../components/light"

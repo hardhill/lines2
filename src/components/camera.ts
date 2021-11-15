@@ -7,7 +7,7 @@ export function createCamera(){
         0.1, //near
         100    //far
     )
-    camera.position.set(0,2,25)
+    camera.position.set(0,15,2)
     camera.lookAt(0,0,0)
     return camera
 }
